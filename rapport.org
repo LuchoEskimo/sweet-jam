@@ -1,0 +1,36 @@
+#+TITLE: \textsc{Tipe}
+#+AUTHOR:
+#+DATE:
+#+OPTIONS: texht:t
+#+LATEX_CLASS: my_article
+#+LATEX_CLASS_OPTIONS:
+#+LATEX_HEADER:
+#+LATEX_HEADER_EXTRA:
+
+#+TODO: TODO(t) | FAIT(f)
+#+TODO: RÉFLÉCHIR(r) RÉDIGER(w) CORRIGER(c) | PRÊT(p)
+
+
+#+BEGIN_ABSTRACT
+
+#+END_ABSTRACT
+#+LATEX: \newpage
+#+TOC: headlines 2
+#+LATEX: \newpage
+
+* À faire 							   :noexport:
+** TODO Trouver un sujet [33%]
+*** FAIT Télécharger documents
+    CLOSED: [2016-09-17 sam. 20:15]
+*** TODO Préciser enjeux blindage
+*** TODO Préciser enjeux effet dièdre
+** TODO Regarder programme MP
+** TODO Se documenter sur la modélisation numérique des ondes
+** TODO Consulter documents papiers [0/4]
+  - [ ] [[http://www.theses.fr/2002ENPC0205][Modélisation numérique des vibrations d'un pneumatique et de la
+  propagation du bruit de contact]], Ali Fadavi
+  - [ ] [[http://www.worldcat.org/title/elaboration-dun-modele-simple-pour-lemission-acoustique-dun-pneumatique-dautomobile/oclc/19232339&referer%3Dbrief_results][Elaboration d'un modèle simple pour l'émission acoustique d'un
+  pneumatique d'automobile]]
+  - [ ] [[https://trid.trb.org/view.aspx?id%3D1011044][Phenomènes d'effet dièdre dans le bruit de contact pneumatique/chaussée]]
+  - [ ] [[http://www.theses.fr/2005BOR13086][Modélisation et optimisation de blindage électromagnétique multicouche
+    en utilisant un algorithme génétique]]
